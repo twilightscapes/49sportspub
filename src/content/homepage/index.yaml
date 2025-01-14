@@ -1,16 +1,7 @@
 showFeature: false
 featureImage: {}
 youtube:
-  discriminant: true
-  value:
-    url: https://youtu.be/z_wmefqR8-w
-    title: Setting a video feature on the homepage
-    controls: false
-    useCustomPlayer: true
-    mute: true
-    loop: false
-    start: 0
-    videoOnly: false
+  discriminant: false
 cta: Keystatic Cloud Sign Up
 showBioOnHome: true
 showApp: false
