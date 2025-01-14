@@ -1,27 +1,31 @@
 showFeature: false
-featureImage: {}
+featureImage:
+  src: /images/homepage/featureImage/src.webp
+  alt: Become A PIRATE!
 youtube:
   discriminant: false
-cta: Keystatic Cloud Sign Up
+cta: Contact Us
 showBioOnHome: true
-showApp: false
+showApp: true
 showHomeGallery: false
 showResume: false
 showPosts: true
-showMore: true
-showFaqOnHome: false
+showMore: false
+showFaqOnHome: true
 showTestOnHome: false
 pitch: How It Works
 pitch2: Social Media That YOU Control
 pitch3: High Seas Freedom
-featureOrder: 1
-bioOrder: 3
-appOrder: .nan
+featureOrder: 5
+bioOrder: 2
+appOrder: 3
 galleryOrder: .nan
-postsOrder: 2
+postsOrder: 1
 resumeOrder: .nan
-faqOrder: .nan
+faqOrder: 4
 testimonialsOrder: .nan
 infoblockOrder: .nan
 infoblock2Order: .nan
 infoblock3Order: .nan
+locationtitle: Our Location
+faqsectiontitle: Frequently Asked Questions
