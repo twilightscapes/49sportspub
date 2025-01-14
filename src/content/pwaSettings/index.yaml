@@ -1,12 +1,13 @@
 showRobots: false
-siteUrl: https://pirateweb.org
-name: PIRATE
-shortName: PIRATE
-screenshot: /images/pwa/screenshot.png
-description: Become A PIRATE!
+siteUrl: https://49sportpub.com
+name: 49 Sports Pub
+shortName: 49 Sports Pub
+location: >-
+  https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3438.835250794748!2d-89.1055613884619!3d30.469104174606986!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x889c3e2fb600f233%3A0x7453694ec785898b!2s49%20Sport&#39;s%20Pub!5e0!3m2!1sen!2sus!4v1736119557878!5m2!1sen!2sus
+description: Always something happening at 49
 themeColor: rgba(0, 0, 0, 1)
 backgroundColor: rgba(0, 0, 0, 1)
 startUrl: /
 display: standalone
-icon192: /images/pwa/icon192.webp
-icon512: /images/pwa/icon512.webp
+icon192: /images/pwa/icon192.png
+icon512: /images/pwa/icon512.png

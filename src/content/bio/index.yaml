@@ -1,10 +1,13 @@
-title: Welcome to your web app!
-tagline: Please watch the videos above
+title: Welcome to 49 Sports Pub
+tagline: Always something happening at 49
 description: >-
-  These videos are designed to show you how to quickly configure Pirate and how
-  to get everything set up on your new web app. 
-image: /images/bio/image.webp
-subheading: Thank you!
-subcontent: For becoming a pirate!
-cta: Keystatic-admin
-showSocial: true
+  With a nice selection of beers on tap, a lively casual atmosphere and lots of
+  fun games, 49 Sport's Pub is a nice place to spend a casual evening out with
+  friends. 
+
+
+  The bar is open late every night and features billiards tables, dart boards,
+  and music.
+image: /images/bio/image.jpg
+phone: (228) 244-9898
+showSocial: false
