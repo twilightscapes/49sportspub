@@ -1,19 +1,9 @@
-showFeature: true
+showFeature: false
 featureImage:
   src: /images/homepage/featureImage/src.webp
   alt: Become A PIRATE!
 youtube:
-  discriminant: true
-  value:
-    url: >-
-      https://www.youtube.com/embed/HOLXmKPs4Gs&amp;controls=0&amp;autoplay=1&amp;mute=1&amp;loop=1&amp;playlist=HOLXmKPs4Gs&amp;playsinline=1&amp;modestbranding=1&amp;rel=0&amp;showinfo=0&amp;fs=0&amp;endscreen=0
-    title: Always something happening at 49
-    controls: false
-    useCustomPlayer: false
-    mute: true
-    loop: true
-    start: 0
-    videoOnly: false
+  discriminant: false
 cta: Contact Us
 showBioOnHome: true
 showApp: true
