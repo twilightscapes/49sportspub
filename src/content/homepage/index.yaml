@@ -20,15 +20,16 @@ showPosts: true
 showMore: false
 showFaqOnHome: true
 showTestOnHome: false
-featureOrder: 5
-bioOrder: 2
-appOrder: 3
-galleryOrder: .nan
-postsOrder: 1
-resumeOrder: .nan
-faqOrder: 4
-testimonialsOrder: .nan
-infoblockOrder: .nan
-infoblock2Order: .nan
-infoblock3Order: .nan
+sectionOrdering:
+  - posts
+  - bio
+  - resume
+  - feature
+  - app
+  - gallery
+  - testimonials
+  - infoblock1
+  - infoblock2
+  - infoblock3
+locationtitle: We're right on 49
 faqsectiontitle: Frequently Asked Questions
