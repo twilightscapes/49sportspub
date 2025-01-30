@@ -1,4 +1,3 @@
-showFeature: true
 featureImage: {}
 youtube:
   discriminant: true
@@ -12,24 +11,11 @@ youtube:
     start: 0
     videoOnly: false
 cta: Contact Us
-showBioOnHome: true
-showApp: true
-showHomeGallery: false
-showResume: false
-showPosts: true
 showMore: false
-showFaqOnHome: true
-showTestOnHome: false
 sectionOrdering:
   - posts
   - bio
-  - resume
   - feature
   - app
-  - gallery
-  - testimonials
-  - infoblock1
-  - infoblock2
-  - infoblock3
 locationtitle: We're right on 49
 faqsectiontitle: Frequently Asked Questions
